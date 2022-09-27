@@ -65,6 +65,8 @@ footer {
 
 /* TODO: Add properties to the cards to achieve the required look */
 .card {
+  box-shadow: 10px 10px;
+  border-radius: 10px;
   border-style: solid;
   border-width: 1px;
   padding: 10px;
